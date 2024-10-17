@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Movie Search App
 
 This is a React-based Movie Search App that allows users to search for movies using the [OMDb API](http://www.omdbapi.com/). Users can search for movies by title and view information such as the movie poster, title, and release year.
@@ -30,3 +31,7 @@ To run this project locally, you’ll need:
 
    ```bash
    git clone https://github.com/your-username/movie-search-app.git
+=======
+# Watchu_Movies
+This Is A react Project of Movies Web App
+>>>>>>> a8089fcd17ff47f7d1c2bb213d978131526de0d6
