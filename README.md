@@ -30,7 +30,7 @@ To run this project locally, you’ll need:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/movie-search-app.git
+   git clone https://github.com/junaidahmed404/Watchu_Movies.git
 =======
 # Watchu_Movies
 This Is A react Project of Movies Web App
