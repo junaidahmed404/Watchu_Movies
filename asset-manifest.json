@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Watchu_Movies/static/css/main.bf3b5ea4.css",
+    "main.js": "/Watchu_Movies/static/js/main.a9650594.js",
+    "index.html": "/Watchu_Movies/index.html",
+    "static/media/search.svg": "/Watchu_Movies/static/media/search.db964b809d21320fb503cb05f4dc8a09.svg",
+    "main.bf3b5ea4.css.map": "/Watchu_Movies/static/css/main.bf3b5ea4.css.map",
+    "main.a9650594.js.map": "/Watchu_Movies/static/js/main.a9650594.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf3b5ea4.css",
+    "static/js/main.a9650594.js"
+  ]
+}
